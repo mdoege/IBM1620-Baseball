@@ -10,6 +10,30 @@ You will need [SIMH](https://github.com/simh/simh) 4, as the 1620 emulation in S
 * Run ```i1620 base.simh```. The game should start. Enter date, time and the names of nine players (or just a random first letter instead). Then the simulation will run.
 * To quit SIMH, press Ctrl-E and then enter q and press Return.
 
+### Roster of players
+
+The game includes a roster of 90 players:
+```
+ANSON           DELAHANTY       HEGAN           LOMBARDI        RUFFING
+APPLING         DICKEY          HEILMANN        LWANER          RUTH
+AVERILL         DIMAGGIO        HENRICH         MACK            SEWELL
+BAKER           DUFFY           HERMAN          M.BURG          SIMMONS
+BENSON          ECOLLINS        HORNSBY         MCGRAW          SISLER
+BERRA           FELLER          HUBBELL         MEDWICK         SPAHN
+BOUDREAU        FOXX            JACKSON         MIZE            SPEAKER
+BROUTHERS       FRISCH          J.BURG          MUSIAL          TERRY
+BURKETT         GEHRIG          JCOLLINS        NEWHOUSER       TRAVIS
+C.BURG          GEHRINGER       JENNINGS        ODOUL           TRAYNOR
+COBB            GORDON          JOHNSON         OROURKE         TROSKY
+COCHRANE        GREENBERG       KAMM            OTT             TUMBLIN
+CRAWFORD        GROH            KEELER          PWANER          VAUGHAN
+CRONIN          GROVE           KELL            RADBOURNE       WAGNER
+CROSETTI        HACK            KELLY           RADCLIFF        WHEAT
+CUYLER          HAMILTON        KELTNER         REISER          WILLIAMS
+DANNING         HARTNETT        LAJOIE          RICE            YORK
+DDEAN           HAYES           LAZZERI         ROBINSON        YOUNG
+```
+
 ### Files
 
 #### Games
