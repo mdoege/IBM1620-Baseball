@@ -15,23 +15,23 @@ You will need [SIMH](https://github.com/simh/simh) 4, as the 1620 emulation in S
 The game includes a roster of 90 players:
 ```
 ANSON           DELAHANTY       HEGAN           LOMBARDI        RUFFING
-APPLING         DICKEY          HEILMANN        LWANER          RUTH
+APPLING         DICKEY          HEILMANN        L WANER         RUTH
 AVERILL         DIMAGGIO        HENRICH         MACK            SEWELL
-BAKER           DUFFY           HERMAN          M.BURG          SIMMONS
-BENSON          ECOLLINS        HORNSBY         MCGRAW          SISLER
+BAKER           DUFFY           HERMAN          M. BURG         SIMMONS
+BENSON          E COLLINS       HORNSBY         MCGRAW          SISLER
 BERRA           FELLER          HUBBELL         MEDWICK         SPAHN
 BOUDREAU        FOXX            JACKSON         MIZE            SPEAKER
-BROUTHERS       FRISCH          J.BURG          MUSIAL          TERRY
-BURKETT         GEHRIG          JCOLLINS        NEWHOUSER       TRAVIS
-C.BURG          GEHRINGER       JENNINGS        ODOUL           TRAYNOR
-COBB            GORDON          JOHNSON         OROURKE         TROSKY
+BROUTHERS       FRISCH          J. BURG         MUSIAL          TERRY
+BURKETT         GEHRIG          J COLLINS       NEWHOUSER       TRAVIS
+C. BURG         GEHRINGER       JENNINGS        O DOUL          TRAYNOR
+COBB            GORDON          JOHNSON         O ROURKE        TROSKY
 COCHRANE        GREENBERG       KAMM            OTT             TUMBLIN
-CRAWFORD        GROH            KEELER          PWANER          VAUGHAN
+CRAWFORD        GROH            KEELER          P WANER         VAUGHAN
 CRONIN          GROVE           KELL            RADBOURNE       WAGNER
 CROSETTI        HACK            KELLY           RADCLIFF        WHEAT
 CUYLER          HAMILTON        KELTNER         REISER          WILLIAMS
 DANNING         HARTNETT        LAJOIE          RICE            YORK
-DDEAN           HAYES           LAZZERI         ROBINSON        YOUNG
+D DEAN          HAYES           LAZZERI         ROBINSON        YOUNG
 ```
 
 ### Files
