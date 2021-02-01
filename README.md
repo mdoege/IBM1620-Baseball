@@ -43,7 +43,8 @@ DDEAN           HAYES           LAZZERI         ROBINSON        YOUNG
 * 1620_baseball.pdf: Original baseball game instructions
 * base.log.txt: Log of a sample program run
 * base.simh: Baseball game emulator script
-* base.txt: Baseball game (TXT format)
+* base.txt: Baseball game (newer version 11.0.032; TXT format)
+* bbc1.txt: Baseball game (older version "BBC VERSION 1K 8/14/61" 11.0.007, same as the sample run in the manual; TXT format)
 * tic.simh: Tic-tac-toe game emulator script
 * tic.txt: Tic-tac-toe game (TXT format)
 
