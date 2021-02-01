@@ -1,3 +1,5 @@
+![IBM 1620](https://github.com/mdoege/IBM1620-Baseball/raw/master/ibm.png "IBM 1620")
+
 ## Running the 1960s Burgeson baseball game in an IBM 1620 emulator
 
 You will need [SIMH](https://github.com/simh/simh) 4, as the 1620 emulation in SIMH 3 is incomplete and cannot run the game.
@@ -36,4 +38,5 @@ You will need [SIMH](https://github.com/simh/simh) 4, as the 1620 emulation in S
 ### Links
 
 * [IBM 1620 games (CRD format)](http://bitsavers.informatik.uni-stuttgart.de/bits/IBM/1620/games/) from Bitsavers
+* [IBM 1620 image](https://commons.wikimedia.org/wiki/File:IBM_1620.jpg) by Todd Dailey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons
 
