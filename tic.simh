@@ -1,0 +1,4 @@
+at cdr tic.txt
+;at lpt out.txt
+boot cdr
+

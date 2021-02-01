@@ -1,0 +1,15 @@
+    _______________________________________________Hex l.   Hex r.
+   / &-0123456789ABCDEFGHIJKLMNOPQR/STUVWXYZ
+12|  x           xxxxxxxxx                          12      80
+11|   x                   xxxxxxxxx                 11      40
+ 0|    x                           xxxxxxxxx        0       20
+ 1|     x        x        x        x                1       10
+ 2|      x        x        x        x               2       8
+ 3|       x        x        x        x              3       4
+ 4|        x        x        x        x             4       2
+ 5|         x        x        x        x            5       1
+ 6|          x        x        x        x           6   80
+ 7|           x        x        x        x          7   40
+ 8|            x        x        x        x         8   20
+ 9|             x        x        x        x        9   10
+  |________________________________________________
