@@ -57,7 +57,7 @@ DDEAN           HAYES           LAZZERI         ROBINSON        YOUNG
 ### YouTube videos about the 1620 baseball game
 
 * [The Story of the First Baseball Video Game Ever Made | Friday Night Arcade](https://www.youtube.com/watch?v=IbH7UZ83kzY)
-* [IBM 1620 Software Library](https://www.youtube.com/watch?v=N12pQBiRd7A&t=2208)
+* IBM 1620 Software Library: at <https://www.youtube.com/watch?v=N12pQBiRd7A&t=2208> and later in the same video at <https://www.youtube.com/watch?v=N12pQBiRd7A&t=3813>
 
 ### Links
 
