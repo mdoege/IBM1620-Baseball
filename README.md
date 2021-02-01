@@ -49,7 +49,8 @@ DDEAN           HAYES           LAZZERI         ROBINSON        YOUNG
 
 #### Other files
 
-* crd2asc.py: Convert CRD to TXT format for running in SIMH
+* cb2asc.py: Convert CHM column binary format to SIMH ASCII
+* crd2asc.py: Convert CRD binary format to SIMH ASCII
 * crd_format_hex.txt: Explanation of CRD file encoding (two bytes per punched card character)
 * dis1620.py: Disassemble 1620 TXT file
 * X26-5852-2_1620_Model_2_Reference_Card.pdf: IBM 1620 Model 2 reference card

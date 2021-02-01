@@ -1,10 +1,6 @@
-set cpu mod2
 
 ; only play a single game, then choose new players
 d sw3 1
-
-; restore multiplication table after program has loaded
-break 2362; set cpu table; c
 
 at cdr base.txt
 

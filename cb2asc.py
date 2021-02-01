@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# Convert .crd to SIMH ASCII
+# Convert CHM column binary format to SIMH ASCII
 
 import sys
 
@@ -64,18 +64,18 @@ Z 0-9
 
 # bit value of each row of holes
 crd = (
-(0, 0x80),
-(0, 0x40),
-(0, 0x20),
-(0, 0x10),
+(32, 0),
+(16, 0),
+(8, 0),
+(4, 0),
+(2, 0),
+(1, 0),
+(0, 32),
+(0, 16),
 (0, 8),
 (0, 4),
 (0, 2),
 (0, 1),
-(0x80, 0),
-(0x40, 0),
-(0x20, 0),
-(0x10, 0),
 )
 
 # number of each row on card
@@ -94,29 +94,23 @@ for l in co.split("\n"):
             if z == int(y):
                 n1 += crd[q][0]
                 n2 += crd[q][1]
-    tab.append((char, n1, n2))
+    tab.append((char, n1|64, n2|64))
         
         
-f = open(sys.argv[1], "rb")
+f = open(sys.argv[1], "r")
 
-n = 0
-line = ""
-
-while True:
-    r = " "
-    try:
-        ch = ord(f.read(1))
-        ch1 = ord(f.read(1))
-    except:
-        print(line.rstrip() + "\r")
-        sys.exit()
-    n += 1
-    if n > 80:
-        n = 1
-        print(line.rstrip() + "\r")
-        line = ""
-    for t in tab:
-        if ch == t[1] and ch1 == t[2]:
-            r = t[0]
-    line += r
-
+for l in f:
+    line = ""
+    x = l.strip()
+    if x == "" or x[0] == "$":
+        continue
+    for n in range(0, 160, 2):
+        r = " "
+        ch = ord(x[n])
+        ch1 = ord(x[n+1])
+        for t in tab:
+            if ch == t[1] and ch1 == t[2]:
+                r = t[0]
+        line += r
+    print(line + "\r")
+     
