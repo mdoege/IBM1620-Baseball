@@ -1,4 +1,5 @@
 at cdr tic.txt
 ;at lpt out.txt
+deposit arstop 0
 boot cdr
 
