@@ -2,11 +2,11 @@
 
 ## Running the 1960s Burgeson baseball game in an IBM 1620 emulator
 
-You will need [SIMH](https://github.com/simh/simh) 4, as the 1620 emulation in SIMH 3 is incomplete and cannot run the game.
+You will need either [SIMH 4](https://github.com/simh/simh) or the latest version of [SIMH 3](http://simh.trailing-edge.com/), which can now also run the game.
 
 * Get the i1620 binary for your platform:
     * Windows: Download SIMH and extract the i1620 binary: [Windows builds of SIMH](https://github.com/simh/Win32-Development-Binaries)
-    * Linux, Mac: Build SIMH 4 from source. Use ```make i1620``` to only build that binary.
+    * Linux, Mac: Build SIMH from source. Use ```make i1620``` to only build that binary.
 * Run ```i1620 base.simh```. The game should start. Enter date, time and the names of nine players (or just a random first letter instead). Then the simulation will run.
 * To quit SIMH, press Ctrl-E and then enter q and press Return.
 
