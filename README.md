@@ -1,4 +1,4 @@
-![IBM 1620](https://github.com/mdoege/IBM1620-Baseball/raw/master/ibm.png "IBM 1620")
+![IBM 1620](ibm.png "IBM 1620")
 
 ## Running the 1960s Burgeson baseball game in an IBM 1620 emulator
 
