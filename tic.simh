@@ -3,6 +3,8 @@ at cdr tic.txt
 deposit arstop 0
 boot cdr
 
-; enter "c" to start the machine when it halts,
-; which happens twice when loading Tic-Tac-Toe
+echo
+echo Enter "c" to start the machine when it halts,
+echo which happens twice when loading tic-tac-toe.
+echo
 
