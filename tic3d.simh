@@ -1,0 +1,6 @@
+at cdr tic3d.txt
+
+boot cdr
+
+; enter "c" to start the machine when it halts
+

@@ -38,15 +38,20 @@ D DEAN          HAYES           LAZZERI         ROBINSON        YOUNG
 
 #### Games
 
-* 1620_11.0.013_tic_tac_toe.crd: Tic-tac-toe game (CRD format)
-* 1620_11.0.032_bbc_baseball.crd: Baseball game (CRD format)
-* 1620_baseball.pdf: Original baseball game instructions
-* base.log.txt: Log of a sample program run
-* base.simh: Baseball game emulator script
-* base.txt: Baseball game (newer version 11.0.032; TXT format)
-* bbc1.txt: Baseball game (older version "BBC VERSION 1K 8/14/61" 11.0.007, same as the sample run in the manual; TXT format)
-* tic.simh: Tic-tac-toe game emulator script
-* tic.txt: Tic-tac-toe game (TXT format)
+* Baseball
+    * 1620_11.0.032_bbc_baseball.crd: Baseball game (CRD format)
+    * 1620_baseball.pdf: Original baseball game instructions
+    * base.log.txt: Log of a sample program run
+    * base.simh: Baseball game emulator script
+    * base.txt: Baseball game (newer version 11.0.032; TXT format)
+    * bbc1.txt: Baseball game (older version "BBC VERSION 1K 8/14/61" 11.0.007, same as the sample run in the manual; TXT format)
+* Tic-tac-toe (2-D)
+    * 1620_11.0.013_tic_tac_toe.crd: Tic-tac-toe game (CRD format)
+    * tic.simh: Tic-tac-toe game (emulator script)
+    * tic.txt: Tic-tac-toe game on a 3x3 grid (TXT format)
+* Tic-tac-toe (3-D)
+    * tic3d.simh: 3-D Tic-tac-toe game (emulator script)
+    * tic3d.txt: 3-D Tic-tac-toe game on a 4x4x4 grid (TXT format)
 
 #### Other files
 
