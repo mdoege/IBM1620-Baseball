@@ -50,8 +50,8 @@ D DEAN          HAYES           LAZZERI         ROBINSON        YOUNG
     * tic.simh: Tic-tac-toe game (emulator script)
     * tic.txt: Tic-tac-toe game on a 3x3 grid (TXT format)
 * Tic-tac-toe (3-D)
-    * tic3d.simh: 3-D Tic-tac-toe game (emulator script)
-    * tic3d.txt: 3-D Tic-tac-toe game on a 4x4x4 grid (TXT format)
+    * tic3d.simh: 3-D tic-tac-toe game (emulator script)
+    * tic3d.txt: 3-D tic-tac-toe game on a 4x4x4 grid (TXT format)
 
 #### Other files
 
