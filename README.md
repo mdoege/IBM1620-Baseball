@@ -53,6 +53,13 @@ D DEAN          HAYES           LAZZERI         ROBINSON        YOUNG
     * tic3d.simh: 3-D tic-tac-toe game (emulator script)
     * tic3d.txt: 3-D tic-tac-toe game on a 4x4x4 grid (TXT format)
 
+#### GOTRAN (programming language)
+
+* C26-5594-1_IBM_1620_GOTRAN_Interpretive_Programming_System_1961.pdf: GOTRAN manual
+* gotran.simh: emulator script
+* gotran.txt: card deck
+* gotran_demo.txt: GOTRAN demo run (see Fig. 16 in manual)
+
 #### Other files
 
 * cb2asc.py: Convert CHM column binary format to SIMH ASCII
