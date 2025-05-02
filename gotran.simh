@@ -1,5 +1,5 @@
 
-at cdr /home/martin/git/IBM1620-Baseball/gotran.txt
+at cdr gotran.txt
 
 deposit arstop 0
 
