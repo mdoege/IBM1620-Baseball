@@ -2,7 +2,7 @@
 
 ## Running the 1960s Burgeson baseball game in an IBM 1620 emulator
 
-You will need either [SIMH 4](https://opensimh.org/) or a recent version of [SIMH 3](http://simh.trailing-edge.com/). Alternatively, my own [IBM 1620 emulator in Python](https://github.com/mdoege/Py1620) can also run the baseball game, so that is another option.
+You will need either [OpenSIMH](https://opensimh.org/) or a recent version of [SIMH](http://simh.trailing-edge.com/). Alternatively, my own [IBM 1620 emulator in Python](https://github.com/mdoege/Py1620) can also run the baseball game, so that is another option.
 
 When using SIMH:
 
