@@ -57,7 +57,7 @@ D DEAN          HAYES           LAZZERI         ROBINSON        YOUNG
 
 #### GOTRAN
 
-GOTRAN is a FORTRAN-like interactive programming language for the IBM 1620. The user enters a program, starting with 6 spaces on each line (as in FORTRAN). After entering an "END" line, the machine halts. Starting the computer with "c" runs the GOTRAN program. GOTRAN features some extra commands not present in standard FORTRAN, such as PLOT.
+GOTRAN is a FORTRAN-like interactive programming language for the IBM 1620. The user enters a program and then after a final "END" line, the machine halts. Starting the computer with "c" runs the GOTRAN program. GOTRAN features some extra commands not present in standard FORTRAN, such as PLOT.
 
 * C26-5594-1_IBM_1620_GOTRAN_Interpretive_Programming_System_1961.pdf: GOTRAN manual
 * gotran.simh: emulator script
