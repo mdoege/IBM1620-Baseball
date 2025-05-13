@@ -41,6 +41,7 @@ D DEAN          HAYES           LAZZERI         ROBINSON        YOUNG
 #### Games
 
 * Baseball
+    * 11.0.032_BBC_Baseball_Simulation_and_Demonstrator.pdf: *1620 General Program Library: B B C Baseball Simulation and Demonstrator*
     * 1620_11.0.032_bbc_baseball.crd: Baseball game (CRD format)
     * 1620_baseball.pdf: Original baseball game instructions
     * base.log.txt: Log of a sample program run
@@ -54,6 +55,10 @@ D DEAN          HAYES           LAZZERI         ROBINSON        YOUNG
 * Tic-tac-toe (3D)
     * tic3d.simh: 3D tic-tac-toe game (emulator script)
     * tic3d.txt: 3D tic-tac-toe game on a 4x4x4 grid (TXT format)
+
+#### IBM 1620 software catalog entry (1971)
+
+![catalog](software_catalog_1971.png "1971 software catalog")
 
 #### GOTRAN
 
