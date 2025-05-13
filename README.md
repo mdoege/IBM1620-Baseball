@@ -36,6 +36,10 @@ DANNING         HARTNETT        LAJOIE          RICE            YORK
 D DEAN          HAYES           LAZZERI         ROBINSON        YOUNG
 ```
 
+### IBM 1620 software catalog entry (1971)
+
+![catalog](software_catalog_1971.png "1971 software catalog")
+
 ### Files
 
 #### Games
@@ -55,10 +59,6 @@ D DEAN          HAYES           LAZZERI         ROBINSON        YOUNG
 * Tic-tac-toe (3D)
     * tic3d.simh: 3D tic-tac-toe game (emulator script)
     * tic3d.txt: 3D tic-tac-toe game on a 4x4x4 grid (TXT format)
-
-#### IBM 1620 software catalog entry (1971)
-
-![catalog](software_catalog_1971.png "1971 software catalog")
 
 #### GOTRAN
 
